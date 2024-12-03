@@ -1,5 +1,6 @@
 import Config
 import ntplib
+import time
 import logging
 from pyromod import listen
 from pyrogram import Client, idle
